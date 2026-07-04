@@ -12,7 +12,7 @@ else:
 ch=input("Enter a character:")
 if ("A"<=ch<="Z"):
     print("UpperCase")
-el
+else:
     print("LowerCase") 
 
 
